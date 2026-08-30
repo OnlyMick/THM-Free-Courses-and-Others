@@ -122,6 +122,7 @@ This repository is a sequential learning path designed to take you from absolute
 - [Dissecting PE Headers](https://tryhackme.com/room/dissectingpeheaders)
 - [Reversing ELF](https://tryhackme.com/room/reverselfiles)
 - [Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
+- [ret2libc](https://tryhackme.com/room/ret2libc)
 - [MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 - [MAL: Researching](https://tryhackme.com/room/malresearching)
 - [Malware Analysis - Egg-xecutable](https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt)
