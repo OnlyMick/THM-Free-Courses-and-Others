@@ -15,7 +15,7 @@ This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed 
 | [Linux Fundamentals 1](https://tryhackme.com/room/linuxfundamentalspart1) | Intro |
 | [Windows Fundamentals](https://tryhackme.com/room/windowsfundamentals1xbx) | Intro |
 | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals) | Intro |
-| [Tmux](https://tryhackme.com/room/tmux) | Tooling |
+| [Tmux](https://tryhackme.com/room/rptmux) | Tooling |
 | [Nmap](https://tryhackme.com/room/furthernmap) | Tooling |
 | [Metasploit: Introduction](https://tryhackme.com/room/rpmetasploit) | Tooling |
 | [Hydra](https://tryhackme.com/room/hydra) | Tooling |
@@ -28,14 +28,14 @@ This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed 
 | [Vulnversity](https://tryhackme.com/room/vulnversity) | CTF |
 | [Blue](https://tryhackme.com/room/blue) | CTF |
 | [Simple CTF](https://tryhackme.com/room/easyctf) | CTF |
-| [Bounty Hacker](https://tryhackme.com/room/bountyhacker) | CTF |
+| [Bounty Hacker](https://tryhackme.com/room/cowboyhacker) | CTF |
 | [Brute It](https://tryhackme.com/room/bruteit) | CTF |
-| [Fowsniff CTF](https://tryhackme.com/room/fowsniffctf) | CTF |
-| [Agent Sudo](https://tryhackme.com/room/agentctf) | CTF |
+| [Fowsniff CTF](https://tryhackme.com/room/ctf) | CTF |
+| [Agent Sudo](https://tryhackme.com/room/agentsudoctf) | CTF |
 | [The Cod Caper](https://tryhackme.com/room/thecodcaper) | CTF |
 | [Ice](https://tryhackme.com/room/ice) | CTF |
 | [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) | CTF |
-| [Post Exploitation Basics](https://tryhackme.com/room/postexploitationbasics) | CTF |
+| [Post Exploitation Basics](https://tryhackme.com/room/postexploit) | CTF |
 | [Dogcat](https://tryhackme.com/room/dogcat) | CTF |
 | [Break out the cage](https://tryhackme.com/room/breakoutthecage1) | CTF |
 | [Lian Yu](https://tryhackme.com/room/lianyu) | CTF |
@@ -57,8 +57,8 @@ This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed 
 | [HTTP in detail](https://tryhackme.com/room/httpindetail) | Networking |
 | [DNS in detail](https://tryhackme.com/room/dnsindetail) | Networking |
 | [Smag Grotto](https://tryhackme.com/room/smaggrotto) | Networking |
-| [Sudo Security Bypass](https://tryhackme.com/room/sudothesecuritybypass) | PrivEsc |
-| [Sudo Buffer Overflow](https://tryhackme.com/room/sudobufferoverflow) | PrivEsc |
+| [Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass) | PrivEsc |
+| [Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof) | PrivEsc |
 | [Windows Privesc](https://tryhackme.com/room/windows10privesc) | PrivEsc |
 | [Windows Privesc Arena](https://tryhackme.com/room/windowsprivescarena) | PrivEsc |
 | [Linux Privesc Arena](https://tryhackme.com/room/linuxprivescarena) | PrivEsc |
