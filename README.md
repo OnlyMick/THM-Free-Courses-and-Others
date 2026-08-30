@@ -64,7 +64,6 @@ This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed 
 | [Linux Privesc Arena](https://tryhackme.com/room/linuxprivescarena) | PrivEsc |
 | [Linux Privilege Escalation](https://tryhackme.com/room/linprivesc) | PrivEsc |
 | [Blaster](https://tryhackme.com/room/blaster) | PrivEsc |
-| [Ignite](https://tryhackme.com/room/ignite) | PrivEsc |
 | [Kenobi](https://tryhackme.com/room/kenobi) | PrivEsc |
 | [c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g) | PrivEsc |
 | [Pickle Rick](https://tryhackme.com/room/picklerick) | PrivEsc |
