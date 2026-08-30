@@ -1,8 +1,8 @@
 # TryHackMe: Free Cybersecurity Roadmap
+
 This repository is a sequential learning path designed to take you from absolute zero to mastering the fundamentals. Upon completion, you will have established a robust foundation in cybersecurity.
 
 ## Phase 1: Absolute Basics & Environment Setup
-*Learn the fundamentals of the operating systems you will be interacting with, the hacker mindset, and the human element of security.*
 
 - [Tutorial](https://tryhackme.com/room/tutorial)
 - [Welcome](https://tryhackme.com/room/welcome)
@@ -26,7 +26,8 @@ This repository is a sequential learning path designed to take you from absolute
 - [Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
 ## Phase 2: Networking & Web Theory
-*Learn how machines communicate, how the web works, and the most critical web vulnerability frameworks before touching any exploitation tool.*
+
+Learn how machines communicate, how the web works, and the most critical web vulnerability frameworks before touching any exploitation tool.
 
 - [Introductory Networking](https://tryhackme.com/room/introtonetworking)
 - [Intro to LAN](https://tryhackme.com/room/introtolan)
@@ -37,7 +38,8 @@ This repository is a sequential learning path designed to take you from absolute
 - [Web Security Essentials](https://tryhackme.com/room/websecurityessentials)
 
 ## Phase 3: Scripting & The Hacker's Tooling
-*Learn to automate tasks and master the industry-standard tools for scanning, web exploitation, password cracking, and network analysis.*
+
+Learn to automate tasks and master the industry-standard tools for scanning, web exploitation, password cracking, and network analysis.
 
 - [Python: Core Concepts](https://tryhackme.com/room/pythoncoreconcepts)
 - [Bash Scripting](https://tryhackme.com/room/bashscripting)
@@ -55,46 +57,9 @@ This repository is a sequential learning path designed to take you from absolute
 - [Hydra](https://tryhackme.com/room/hydra)
 - [Metasploit: The Basics](https://tryhackme.com/room/metasploitthebasics)
 
+## Phase 4: Web Exploitation & Crypto
 
-## Phase 4: Initial Exploitation & Easy CTFs
-*Time to put it all together. These guided rooms and easy CTFs will teach you how to gain that initial foothold in a machine.*
-
-- [Vulnversity](https://tryhackme.com/room/vulnversity)
-- [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-- [Simple CTF](https://tryhackme.com/room/easyctf)
-- [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
-- [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
-- [Fowsniff CTF](https://tryhackme.com/room/ctf)
-- [Overpass](https://tryhackme.com/room/overpass)
-- [Blue](https://tryhackme.com/room/blue)
-
-## Phase 5: Privilege Escalation
-*You are inside the machine, but you are just a low-privileged user. Learn how to become root/Administrator.*
-
-- [Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
-- [Crack the hash](https://tryhackme.com/room/crackthehash)
-- [Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
-- [Linux Privilege Escalation: Enumeration](https://tryhackme.com/room/linprivenum)
-- [Linux Privilege Escalation](https://tryhackme.com/room/linuxprivesc)
-- [Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
-- [Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
-- [Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
-- [Bypassing UAC](https://tryhackme.com/room/bypassinguac)
-- [Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
-
-## Phase 6: Active Directory & Advanced CTFs
-*The corporate environment and complex, multi-step challenges.*
-
-- [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
-- [Intro to AD Authentication](https://tryhackme.com/room/introtoactivedirectoryauthentication)
-- [AD: Basic Enumeration](https://tryhackme.com/room/adbasicenumeration)
-- [Intro to AD Breaching](https://tryhackme.com/room/introductiontoactivedirectorybreaching)
-- [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
-- [Relevant](https://tryhackme.com/room/relevant)
-- [Internal](https://tryhackme.com/room/internal)
-
-## Phase 7: Web Exploitation & Crypto
-*Deep dives into specific technical domains.*
+Understand how web applications are attacked, from the OWASP Top 10 to advanced exploitation techniques, and build your cryptographic foundations before facing real targets.
 
 - [OWASP Top 10 2025: IAAA Failures](https://tryhackme.com/room/owasptopten2025three)
 - [OWASP Top 10 2025: Insecure Data Handling](https://tryhackme.com/room/owasptopten2025one)
@@ -113,8 +78,49 @@ This repository is a sequential learning path designed to take you from absolute
 - [Ignite](https://tryhackme.com/room/ignite)
 - [Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
+## Phase 5: Initial Exploitation & Easy CTFs
+
+Time to put it all together. These guided rooms and easy CTFs will teach you how to gain that initial foothold in a machine.
+
+- [Vulnversity](https://tryhackme.com/room/vulnversity)
+- [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [Simple CTF](https://tryhackme.com/room/easyctf)
+- [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
+- [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
+- [Fowsniff CTF](https://tryhackme.com/room/ctf)
+- [Overpass](https://tryhackme.com/room/overpass)
+- [Blue](https://tryhackme.com/room/blue)
+
+## Phase 6: Privilege Escalation
+
+You are inside the machine, but you are just a low-privileged user. Learn how to become root/Administrator.
+
+- [Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
+- [Crack the hash](https://tryhackme.com/room/crackthehash)
+- [Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
+- [Linux Privilege Escalation: Enumeration](https://tryhackme.com/room/linprivenum)
+- [Linux Privilege Escalation](https://tryhackme.com/room/linuxprivesc)
+- [Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+- [Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
+- [Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
+- [Bypassing UAC](https://tryhackme.com/room/bypassinguac)
+- [Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
+
+## Phase 7: Active Directory & Advanced CTFs
+
+The corporate environment and complex, multi-step challenges.
+
+- [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
+- [Intro to AD Authentication](https://tryhackme.com/room/introtoactivedirectoryauthentication)
+- [AD: Basic Enumeration](https://tryhackme.com/room/adbasicenumeration)
+- [Intro to AD Breaching](https://tryhackme.com/room/introductiontoactivedirectorybreaching)
+- [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
+- [Relevant](https://tryhackme.com/room/relevant)
+- [Internal](https://tryhackme.com/room/internal)
+
 ## Phase 8: Reverse Engineering & Malware Analysis
-*Take the software apart to understand how it works.*
+
+Take the software apart to understand how it works.
 
 - [x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
 - [Windows Reversing Intro](https://tryhackme.com/room/windowsreversingintro)
@@ -128,7 +134,8 @@ This repository is a sequential learning path designed to take you from absolute
 - [Malware Analysis - Egg-xecutable](https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt)
 
 ## Phase 9: Blue Team, Defense & Reporting
-*Understand the defensive side of cybersecurity.*
+
+Understand the defensive side of cybersecurity.
 
 - [SOC Fundamentals](https://tryhackme.com/room/socfundamentals)
 - [Intro to Detection Engineering](https://tryhackme.com/room/introtodetectionengineering)
@@ -147,6 +154,7 @@ This repository is a sequential learning path designed to take you from absolute
 - [Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
 
 ## Bonus: Advent of Cyber (Optional)
-*Guided, accessible narrative paths, ideal for reinforcing skills. Note: The annual editions share a conceptual overlap of more than 60%.*
+
+Guided, accessible narrative paths, ideal for reinforcing skills. Note: The annual editions share a conceptual overlap of more than 60%.
 
 - [Advent of Cyber 2024](https://tryhackme.com/room/adventofcyber2024)
