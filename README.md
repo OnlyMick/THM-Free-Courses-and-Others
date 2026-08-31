@@ -63,10 +63,10 @@ Learn to automate tasks and master the industry-standard tools for scanning, con
 ## Phase 4: Web Exploitation & Crypto
 Understand how web applications are attacked, from the OWASP Top 10 to advanced exploitation techniques, and build your cryptographic foundations before facing real targets.
 
+- [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 - [OWASP Top 10 2025: IAAA Failures](https://tryhackme.com/room/owasptopten2025three)
 - [OWASP Top 10 2025: Insecure Data Handling](https://tryhackme.com/room/owasptopten2025one)
 - [OWASP Top 10 2025: Application Design Flaws](https://tryhackme.com/room/owasptopten2025two)
-- [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 - [SQL Injection Introduction](https://tryhackme.com/room/sqlinjectionintroduction)
 - [SQLMAP](https://tryhackme.com/room/sqlmap)
 - [XSS](https://tryhackme.com/room/axss)
