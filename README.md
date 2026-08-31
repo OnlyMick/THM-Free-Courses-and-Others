@@ -2,14 +2,17 @@
 
 This repository is a sequential learning path designed to take you from absolute zero to mastering the fundamentals. Upon completion, you will have established a robust foundation in cybersecurity.
 
-## Phase 1: Absolute Basics & Environment Setup
-
-Learn the fundamentals of the operating systems you will be interacting with, the hacker mindset, and the human element of security.
+## Phase 0: Onboarding & Setup
+Learn how to use the platform.
 
 - [Tutorial](https://tryhackme.com/room/tutorial)
 - [Welcome](https://tryhackme.com/room/welcome)
 - [OpenVPN](https://tryhackme.com/room/openvpn)
 - [Search Skills](https://tryhackme.com/room/searchskills)
+
+## Phase 1: Absolute Basics & Environment Setup
+Learn the fundamentals of the operating systems you will be interacting with, the hacker mindset, and the human element of security.
+
 - [The CIA Triad](https://tryhackme.com/room/theciatriad)
 - [Security Principles](https://tryhackme.com/room/securityprinciples)
 - [Phishing Basics](https://tryhackme.com/room/phishingbasics)
@@ -28,7 +31,6 @@ Learn the fundamentals of the operating systems you will be interacting with, th
 - [Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
 ## Phase 2: Networking & Web Theory
-
 Learn how machines communicate, how the web works, and the most critical web vulnerability frameworks before touching any exploitation tool.
 
 - [Introductory Networking](https://tryhackme.com/room/introtonetworking)
@@ -40,7 +42,6 @@ Learn how machines communicate, how the web works, and the most critical web vul
 - [Web Security Essentials](https://tryhackme.com/room/websecurityessentials)
 
 ## Phase 3: Scripting & The Hacker's Tooling
-
 Learn to automate tasks and master the industry-standard tools for scanning, content discovery, password cracking, and network analysis.
 
 - [Python: Core Concepts](https://tryhackme.com/room/pythoncoreconcepts)
@@ -57,9 +58,9 @@ Learn to automate tasks and master the industry-standard tools for scanning, con
 - [ffuf](https://tryhackme.com/room/ffuf)
 - [Hydra](https://tryhackme.com/room/hydra)
 - [Metasploit: The Basics](https://tryhackme.com/room/metasploitthebasics)
+- [Simple CTF (TEST)](https://tryhackme.com/room/easyctf)
 
 ## Phase 4: Web Exploitation & Crypto
-
 Understand how web applications are attacked, from the OWASP Top 10 to advanced exploitation techniques, and build your cryptographic foundations before facing real targets.
 
 - [OWASP Top 10 2025: IAAA Failures](https://tryhackme.com/room/owasptopten2025three)
@@ -77,14 +78,13 @@ Understand how web applications are attacked, from the OWASP Top 10 to advanced 
 - [SSTI](https://tryhackme.com/room/learnssti)
 - [Cryptography Basics](https://tryhackme.com/room/cryptographybasics)
 - [Breaking Crypto the Simple Way](https://tryhackme.com/room/breakingcryptothesimpleway)
+- [c4ptur3-th3-fl4g (TEST)](https://tryhackme.com/room/c4ptur3th3fl4g)
 
 ## Phase 5: Initial Exploitation & Easy CTFs
-
 Time to put it all together. These guided rooms and easy CTFs will teach you how to gain that initial foothold in a machine.
 
 - [Vulnversity](https://tryhackme.com/room/vulnversity)
 - [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-- [Simple CTF](https://tryhackme.com/room/easyctf)
 - [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 - [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 - [Fowsniff CTF](https://tryhackme.com/room/ctf)
@@ -94,7 +94,6 @@ Time to put it all together. These guided rooms and easy CTFs will teach you how
 - [Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
 ## Phase 6: Privilege Escalation
-
 You are inside the machine, but you are just a low-privileged user. Learn how to become root/Administrator.
 
 - [Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
@@ -109,7 +108,6 @@ You are inside the machine, but you are just a low-privileged user. Learn how to
 - [Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
 
 ## Phase 7: Active Directory, Advanced CTFs & Offensive Reporting
-
 The corporate environment, complex, multi-step challenges, and the reporting that closes an offensive engagement.
 
 - [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
@@ -119,10 +117,9 @@ The corporate environment, complex, multi-step challenges, and the reporting tha
 - [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 - [Relevant](https://tryhackme.com/room/relevant)
 - [Internal](https://tryhackme.com/room/internal)
-- [Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
+- [Writing Pentest Reports (for both, red and blue team)](https://tryhackme.com/room/writingpentestreports)
 
 ## Phase 8: Reverse Engineering & Malware Analysis
-
 Take the software apart to understand how it works.
 
 - [x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
@@ -135,9 +132,10 @@ Take the software apart to understand how it works.
 - [MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 - [MAL: Researching](https://tryhackme.com/room/malresearching)
 - [Malware Analysis - Egg-xecutable](https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt)
+- [Basic Malware RE (TEST)](https://tryhackme.com/room/basicmalwarere)
+- [Gatekeeper (TEST)](https://tryhackme.com/room/gatekeeper)
 
 ## Phase 9: Blue Team & Defense
-
 Understand the defensive side of cybersecurity.
 
 - [SOC Fundamentals](https://tryhackme.com/room/socfundamentals)
@@ -154,9 +152,13 @@ Understand the defensive side of cybersecurity.
 - [Memory Analysis Introduction](https://tryhackme.com/room/memoryanalysisintroduction)
 - [Volatility Essentials](https://tryhackme.com/room/volatilityessentials)
 - [Threat Hunting With YARA](https://tryhackme.com/room/threathuntingwithyara)
+- [h4cked (TEST)](https://tryhackme.com/room/h4cked)
+- [SOC L1 Alert Triage (TEST)](https://tryhackme.com/room/socl1alerttriage)
 
-## Bonus: Advent of Cyber (Optional)
+## Final Capstone CTFs
+These are not learning rooms, they are practical challenges
 
-Guided, accessible narrative paths, ideal for reinforcing skills. Note: The annual editions share a conceptual overlap of more than 60%.
-
-- [Advent of Cyber 2024](https://tryhackme.com/room/adventofcyber2024)
+- [0day](https://tryhackme.com/room/0day)
+- [dogcat](https://tryhackme.com/room/dogcat)
+- [The Marketplace](https://tryhackme.com/room/marketplace)
+- [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
