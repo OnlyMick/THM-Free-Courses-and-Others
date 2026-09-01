@@ -115,8 +115,14 @@ Time to put it all together. These guided rooms and easy CTFs will teach you how
 - [Ignite](https://tryhackme.com/room/ignite)
 - [Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
-**End-of-Phase (Download the VM and run it locally on VMware or anything you want. Make sure to put Host-Only network. Go to see a youtube video if you find any issue):**
-- [VulnHub: Kioptrix Level 1](https://www.vulnhub.com/entry/kioptrix-level-1-1,22/)
+**End-of-Phase (Download the VM and run it locally on VMware or VirtualBox. Make sure to put Host-Only network. If you get stuck, search GitHub for "HackMyVM [Machine Name] writeup")**
+- [HackMyVM: Driftingblues3](https://hackmyvm.eu/machines/machine.php?vm=Driftingblues3)
+- [HackMyVM: Driftingblues5](https://hackmyvm.eu/machines/machine.php?vm=Driftingblues5)
+- [HackMyVM: Driftingblues6](https://hackmyvm.eu/machines/machine.php?vm=Driftingblues6)
+If you don't want to follow the Saga:
+- [HackMyVM: Gift](https://hackmyvm.eu/machines/machine.php?vm=Gift)
+- [HackMyVM: First](https://hackmyvm.eu/machines/machine.php?vm=First)
+- [HackMyVM: Pwned](https://hackmyvm.eu/machines/machine.php?vm=Pwned) (Recommended)
 
 ## Phase 6: Privilege Escalation
 You are inside the machine, but you are just a low-privileged user. Learn how to become root/Administrator.
@@ -132,8 +138,13 @@ You are inside the machine, but you are just a low-privileged user. Learn how to
 - [Bypassing UAC](https://tryhackme.com/room/bypassinguac)
 - [Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
 
-**End-of-Phase (Local Lab):**
-- [VulnHub: Kioptrix Level 2](https://www.vulnhub.com/entry/kioptrix-level-11-2,23/)
+**End-of-Phase (Local Lab. Make sure to put Host-Only network):**
+- [HackMyVM: Driftingblues7](https://hackmyvm.eu/machines/machine.php?vm=Driftingblues7)
+- [HackMyVM: Driftingblues8](https://hackmyvm.eu/machines/machine.php?vm=Driftingblues8)
+- [HackMyVM: Driftingblues9](https://hackmyvm.eu/machines/machine.php?vm=Driftingblues9)
+If you don't want to follow the Saga:
+- [HackMyVM: Noob](https://hackmyvm.eu/machines/machine.php?vm=Noob)
+- [HackMyVM: Friendly](https://hackmyvm.eu/machines/machine.php?vm=Friendly)
 
 ## Phase 7: Red Team Operations, Active Directory & Specialized Vectors
 The corporate environment, offensive infrastructure, alternative attack vectors and professional reporting.
