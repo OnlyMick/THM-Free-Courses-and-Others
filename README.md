@@ -338,7 +338,7 @@ These are still free-tier courses, so they don't go into much depth. After choos
 - [Registry Persistence Detection](https://tryhackme.com/room/registrypersistencedetection)
 
 **External:**
-- [GOAD (Local Lab — pay attention to minimum requirements)](https://github.com/Orange-Cyberdefense/GOAD)
+- [GOAD (Local Lab - pay attention to minimum requirements)](https://github.com/Orange-Cyberdefense/GOAD)
 
 ### Advanced Malware Analysis & Reverse Engineering
 - [Aster](https://tryhackme.com/room/aster)
